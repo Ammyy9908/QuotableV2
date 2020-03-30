@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/QuotableV2/static/js/main.97ac23d1.chunk.js",
+    "main.js.map": "/QuotableV2/static/js/main.97ac23d1.chunk.js.map",
+    "runtime-main.js": "/QuotableV2/static/js/runtime-main.984a4729.js",
+    "runtime-main.js.map": "/QuotableV2/static/js/runtime-main.984a4729.js.map",
+    "static/js/2.064ffdb5.chunk.js": "/QuotableV2/static/js/2.064ffdb5.chunk.js",
+    "static/js/2.064ffdb5.chunk.js.map": "/QuotableV2/static/js/2.064ffdb5.chunk.js.map",
+    "index.html": "/QuotableV2/index.html",
+    "precache-manifest.e6a2127b9b4146954bef911af2af1f5c.js": "/QuotableV2/precache-manifest.e6a2127b9b4146954bef911af2af1f5c.js",
+    "service-worker.js": "/QuotableV2/service-worker.js",
+    "static/js/2.064ffdb5.chunk.js.LICENSE.txt": "/QuotableV2/static/js/2.064ffdb5.chunk.js.LICENSE.txt",
+    "static/media/Devloper.png": "/QuotableV2/static/media/Devloper.fa5a4493.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.984a4729.js",
+    "static/js/2.064ffdb5.chunk.js",
+    "static/js/main.97ac23d1.chunk.js"
+  ]
+}
